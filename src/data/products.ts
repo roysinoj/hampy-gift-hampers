@@ -1,0 +1,12 @@
+export const PRODUCTS = [
+  { id: 101, title: "Premium Almonds (100g)", price: 150, category: "Dry Fruits", image: "https://images.unsplash.com/photo-1642337841034-249c5a21623c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxib3dsJTIwb2YlMjBhbG1vbmRzfGVufDF8fHx8MTc3MDk3NTMyN3ww&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral" },
+  { id: 102, title: "Cashews (100g)", price: 180, category: "Dry Fruits", image: "https://images.unsplash.com/photo-1726771517475-e7acdd34cd8a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxjYXNoZXclMjBudXRzfGVufDF8fHx8MTc3MDkzMjM4MHww&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral" },
+  { id: 103, title: "Scented Soy Candle", price: 299, category: "Wellness", image: "https://images.unsplash.com/photo-1603006905003-be475563bc59?auto=format&fit=crop&q=80&w=300" },
+  { id: 104, title: "Artisan Chocolate Bar", price: 250, category: "Chocolates", image: "https://images.unsplash.com/photo-1683343960120-830be550f611?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxjaG9jb2xhdGUlMjBiYXIlMjBwYWNrYWdpbmd8ZW58MXx8fHwxNzcwOTcyODY0fDA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral" },
+  { id: 105, title: "Green Tea Box", price: 120, category: "Beverages", image: "https://images.unsplash.com/photo-1627435601361-ec25f5b1d0e5?auto=format&fit=crop&q=80&w=300" },
+  { id: 106, title: "Organic Honey", price: 350, category: "Food", image: "https://images.unsplash.com/photo-1587049352846-4a222e784d38?auto=format&fit=crop&q=80&w=300" },
+  { id: 107, title: "Handmade Soap", price: 199, category: "Wellness", image: "https://images.unsplash.com/photo-1600857544200-b2f666a9a2ec?auto=format&fit=crop&q=80&w=300" },
+  { id: 108, title: "Coffee Beans (100g)", price: 220, category: "Beverages", image: "https://images.unsplash.com/photo-1559056199-641a0ac8b55e?auto=format&fit=crop&q=80&w=300" },
+  { id: 109, title: "Trail Mix", price: 140, category: "Dry Fruits", image: "https://images.unsplash.com/photo-1767877609689-beff32b9c0ac?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHx0cmFpbCUyMG1peCUyMGhlYWx0aHklMjBzbmFja3xlbnwxfHx8fDE3NzA5NzUzMjd8MA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral" },
+  { id: 110, title: "Decor Figurine", price: 450, category: "Decor", image: "https://images.unsplash.com/photo-1581539250439-c96689b516dd?auto=format&fit=crop&q=80&w=300" },
+];
