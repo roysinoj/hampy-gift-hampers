@@ -29,7 +29,7 @@ const PRODUCTS = [
     title: "The Minimalist",
     price: "₹65.00",
     color: "bg-gray-100",
-    img: "https://images.unsplash.com/photo-1606117331688-c257a5b49544?w=1080&q=80&fit=crop"
+    img: "https://images.unsplash.com/photo-1607344645866-009c320b63e0?w=1080&q=80&fit=crop"
   }
 ];
 
