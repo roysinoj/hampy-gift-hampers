@@ -8,28 +8,28 @@ const PRODUCTS = [
     title: "The Sweet Tooth",
     price: "₹45.00",
     color: "bg-pink-100",
-    img: "https://images.unsplash.com/photo-1761276297637-4418549ead2d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxicmlnaHQlMjBwb3AlMjBhcnQlMjBnaWZ0JTIwYm94fGVufDF8fHx8MTc3MDgzMDA4N3ww&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral"
+    img: "https://images.unsplash.com/photo-1549007994-cb92caebd54b?w=1080&q=80&fit=crop"
   },
   {
     id: 2,
     title: "Abstract Living",
     price: "₹120.00",
     color: "bg-blue-100",
-    img: "https://images.unsplash.com/photo-1706466615511-18622e5ef756?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxwbGF5ZnVsJTIwM2QlMjBhYnN0cmFjdCUyMHNoYXBlJTIwcGFzdGVsfGVufDF8fHx8MTc3MDgzMDA4N3ww&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral"
+    img: "https://images.unsplash.com/photo-1513885535751-8b9238bd345a?w=1080&q=80&fit=crop"
   },
   {
     id: 3,
     title: "Party Starter",
     price: "₹89.00",
     color: "bg-yellow-100",
-    img: "https://images.unsplash.com/photo-1649432208894-5b710b6fa6c5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHx2aWJyYW50JTIwY2FuZHklMjBjb2xvcmZ1bCUyMGZsYXQlMjBsYXl8ZW58MXx8fHwxNzcwODMwMDg3fDA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral"
+    img: "https://images.unsplash.com/photo-1464454709131-ffd692591ee5?w=1080&q=80&fit=crop"
   },
   {
     id: 4,
     title: "The Minimalist",
     price: "₹65.00",
     color: "bg-gray-100",
-    img: "https://images.unsplash.com/photo-1753718605172-86d37d27596d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxsdXh1cnklMjBnaWZ0JTIwaGFtcGVyJTIwYWVzdGhldGljfGVufDF8fHx8MTc3MDgyOTU2M3ww&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral"
+    img: "https://images.unsplash.com/photo-1606117331688-c257a5b49544?w=1080&q=80&fit=crop"
   }
 ];
 
